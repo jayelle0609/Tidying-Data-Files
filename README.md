@@ -30,7 +30,7 @@ Hence, I will first clean the data and tidy it into long format in Python, befor
 ## 🌐 Portfolio Projects, Visualizations and Apps Deployed
 - [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
 - [Tableau Visualizations](https://public.tableau.com/app/profile/jialingteo)
-- [GitHub Portfolio Documentations](https://github.com/jayelle0609/Portfolio/edit/main/README.md)
+- [GitHub Portfolio](https://github.com/jayelle0609/Portfolio)
 
 ## 💻 Resume
 - [Resume](https://drive.google.com/file/d/1Rq7kx1UOF96GE26drsnB5flgt6iCxdYP/view?usp=drive_link)
