@@ -20,6 +20,7 @@ Hence, I will first clean the data and tidy it into long format in Python, befor
   - Dropping unnecessary rows or columns
   - Renaming columns for clarity
   - Resetting indexes
+  - Or just visualizing in Python itself since I love Python so much!!! It seriously helps make my workflow so convenient.
 
 ---
 
