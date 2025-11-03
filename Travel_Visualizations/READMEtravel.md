@@ -1,7 +1,10 @@
 # 🌍 Travel Expense Visualizations in Python
 
-A playful collection of Python-powered visualizations to track trips, budgets, 
-and questionable life decisions because data can make your adventures look *way more organized than they actually are*.  
+A playful collection of Python-powered visualizations to track trip budgets, 
+
+and questionable life decisions because charts organize 
+
+my chaotic travel adventures, *way more than they actually should be*!  
 
 ## Projects
 
@@ -14,11 +17,11 @@ and questionable life decisions because data can make your adventures look *way 
 ## Tools
 - Python 🐍  
 - Pandas & NumPy 📊  
-- Matplotlib & Seaborn & Plotly🎨  
+- Matplotlib & Seaborn & Plotly 🎨  
 
 ## Notes
-- Just for fun, personal use, and aesthetic chaos.  
+- Just for fun, personal use, and aesthetic chart-ical beauty.  
 - All charts are more about storytelling than financial advice.
 - Created purely out of my genuine love for charting and to organize my thoughts
-- It truly helped me **visualize the damage**... my love for travel is doing to my wallet 🥲🥲🥲
+- It truly helped me **visualize the damage**... my love for travel is doing **to my wallet** 🥲🥲🥲
 
