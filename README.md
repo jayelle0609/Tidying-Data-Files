@@ -5,6 +5,8 @@ This repository contains a chunk of my Python scripts for **tidying and cleaning
 
 Hence, I will first clean the data and tidy it into long format in Python, dump my code here before creating any Tableau Visualizations.
 
+Occasionally, I will create Python visualizations too because it is so simple to do so.
+
 ---
 
 ## Features
