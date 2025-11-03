@@ -1,4 +1,4 @@
-# 🌍 Travel Visualizations in Python
+# 🌍 Travel Expense Visualizations in Python
 
 A playful collection of Python-powered visualizations to track trips, budgets, 
 and questionable life decisions because data can make your adventures look *way more organized than they actually are*.  
