@@ -1,13 +1,7 @@
 # Tidying Data Files
 
 ## Overview
-This repository contains a chunk of my Python scripts for **tidying and cleaning data** before visualization in Tableau. 
-
-Often, the datasets I download from data.gov.sg comes in a **wide format**, 
-
-which can be very inconvenient for analysis and visualization in Tableau, as Tableau Public's interface does not pivot data very effectively. 
-
-Hence, I will first clean the data and tidy it into long format in Python, before creating any Tableau Visualizations.
+This repository contains a chunk of my Python scripts for **tidying and cleaning data** before visualization in Tableau. Often, the datasets I download from data.gov.sg comes in a **wide format**, which can be very inconvenient for analysis and visualization in Tableau, as Tableau Public's interface does not pivot data very effectively. Hence, I will first clean the data and tidy it into long format in Python, before creating any Tableau Visualizations.
 
 ---
 
