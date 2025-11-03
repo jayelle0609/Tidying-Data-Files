@@ -1,10 +1,6 @@
 # 🌍 Travel Expense Visualizations in Python
 
-A playful collection of Python-powered visualizations to track trip budgets, 
-
-and questionable life decisions because charts organize 
-
-my chaotic travel adventures, *way more than they actually should be*!  
+A playful collection of Python-powered visualizations to track trip budgets, and questionable life decisions because charts organize my chaotic travel adventures, *way more than they actually should be*!  
 
 ## Projects
 
