@@ -18,6 +18,6 @@ A playful collection of Python-powered visualizations to track trip budgets, and
 ## Notes
 - Just for fun, personal use, and aesthetic chart-ical beauty.  
 - All charts are more about storytelling than financial advice.
-- Created purely out of my **genuine love for charting** and to organize my thoughts
+- Created purely out of my **genuine love for charting** and organzing my thoughts
 - It truly helped me **visualize the damage**... my love for travel is doing **to my wallet** 🥲🥲🥲
 
