@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="clean1.png" alt="clean" width="600">
+</p>
+
 # Tidying Data Files
 This repository contains a chunk of my Python scripts for **tidying and cleaning data** before any visualization in Tableau. 
 
@@ -33,4 +37,3 @@ Hence, I will first **clean the data and tidy it into long format in Python**, t
 
 ## 💻 Resume
 - [Resume](https://drive.google.com/file/d/1Rq7kx1UOF96GE26drsnB5flgt6iCxdYP/view?usp=drive_link)
-
