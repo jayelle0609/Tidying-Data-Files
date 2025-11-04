@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="clean1.png" alt="clean" width="600">
+  <img src="clean1.png" alt="clean" width="400">
 </p>
 
 # Tidying Data Files
